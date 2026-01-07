@@ -182,7 +182,7 @@ body {
 .cursor-glow {
     width: 400px;
     height: 400px;
-    background: radial-gradient(circle, rgba(0, 255, 157, 0.15), transparent 70%);
+    background: radial-gradient(circle, rgba(186, 205, 217, 0.15), transparent 70%);
     position: fixed;
     top: 0;
     left: 0;
